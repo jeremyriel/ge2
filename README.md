@@ -19,5 +19,7 @@ Thank you for stopping by. Hopefully others can find some use in what we've buil
 If you have any questions, feel free to contact me!
 
 Jeremy Riel
+
 GlobalEd 2 Technology Director
 www.globaled2.com
+
