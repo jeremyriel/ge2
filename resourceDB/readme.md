@@ -13,5 +13,6 @@ Whenever a filter is applied, an AJAX call is used on the user's page to run a n
 Most of the code has been chopped up and commented for help. All of the identifying information and keys have been removed - you'll need to add those on your own.
 
 If you have any questions, feel free to contact me. 
+
 Jeremy Riel
 GE2 Technology Director
